@@ -1,9 +1,7 @@
 using Impacta_Ecommerce;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
-
 
 // Register the DbContext with a connection string from appsettings.json
 builder.Services.AddDbContext<Ecommerce>(options =>
