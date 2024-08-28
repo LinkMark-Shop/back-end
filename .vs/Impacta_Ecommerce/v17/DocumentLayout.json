@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D922F7F8-5F05-4238-94F0-0EC76C8E2E0D}|Impacta_Ecommerce.csproj|c:\\users\\tevo\\desktop\\impacta\\impacta_projeto\\impacta_ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D922F7F8-5F05-4238-94F0-0EC76C8E2E0D}|Impacta_Ecommerce.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D922F7F8-5F05-4238-94F0-0EC76C8E2E0D}|Impacta_Ecommerce.csproj|c:\\users\\tevo\\desktop\\impacta\\impacta_projeto\\impacta_ecommerce\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D922F7F8-5F05-4238-94F0-0EC76C8E2E0D}|Impacta_Ecommerce.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D922F7F8-5F05-4238-94F0-0EC76C8E2E0D}|Impacta_Ecommerce.csproj|c:\\users\\tevo\\desktop\\impacta\\impacta_projeto\\impacta_ecommerce\\controllers\\controller_crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D922F7F8-5F05-4238-94F0-0EC76C8E2E0D}|Impacta_Ecommerce.csproj|solutionrelative:controllers\\controller_crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D922F7F8-5F05-4238-94F0-0EC76C8E2E0D}|Impacta_Ecommerce.csproj|c:\\users\\tevo\\desktop\\impacta\\impacta_projeto\\impacta_ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D922F7F8-5F05-4238-94F0-0EC76C8E2E0D}|Impacta_Ecommerce.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D922F7F8-5F05-4238-94F0-0EC76C8E2E0D}|Impacta_Ecommerce.csproj|c:\\users\\tevo\\desktop\\impacta\\impacta_projeto\\impacta_ecommerce\\impacta_ecommerce.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D922F7F8-5F05-4238-94F0-0EC76C8E2E0D}|Impacta_Ecommerce.csproj|solutionrelative:impacta_ecommerce.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D922F7F8-5F05-4238-94F0-0EC76C8E2E0D}|Impacta_Ecommerce.csproj|c:\\users\\tevo\\desktop\\impacta\\impacta_projeto\\impacta_ecommerce\\table_crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D922F7F8-5F05-4238-94F0-0EC76C8E2E0D}|Impacta_Ecommerce.csproj|solutionrelative:table_crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D922F7F8-5F05-4238-94F0-0EC76C8E2E0D}|Impacta_Ecommerce.csproj|c:\\users\\tevo\\desktop\\impacta\\impacta_projeto\\impacta_ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D922F7F8-5F05-4238-94F0-0EC76C8E2E0D}|Impacta_Ecommerce.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,48 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T23:15:04.626Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T20:51:13.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "controller_crud.cs",
-              "DocumentMoniker": "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\Controllers\\controller_crud.cs",
-              "RelativeDocumentMoniker": "Controllers\\controller_crud.cs",
-              "ToolTip": "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\Controllers\\controller_crud.cs",
-              "RelativeToolTip": "Controllers\\controller_crud.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T23:41:42.428Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -76,9 +40,59 @@
               "RelativeDocumentMoniker": "table_crud.cs",
               "ToolTip": "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\table_crud.cs",
               "RelativeToolTip": "table_crud.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T23:08:59.104Z",
+              "WhenOpened": "2024-08-24T00:00:43.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T01:28:27.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:27:41.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Impacta_Ecommerce.http",
+              "DocumentMoniker": "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\Impacta_Ecommerce.http",
+              "RelativeDocumentMoniker": "Impacta_Ecommerce.http",
+              "ToolTip": "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\Impacta_Ecommerce.http",
+              "RelativeToolTip": "Impacta_Ecommerce.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-22T00:20:56.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "controller_crud.cs",
+              "DocumentMoniker": "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\Controllers\\controller_crud.cs",
+              "RelativeDocumentMoniker": "Controllers\\controller_crud.cs",
+              "ToolTip": "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\Controllers\\controller_crud.cs",
+              "RelativeToolTip": "Controllers\\controller_crud.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T23:19:58.343Z",
               "EditorCaption": ""
             }
           ]
