@@ -3,9 +3,11 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Impacta_Ecommerce.Controllers
 {
+    [Route("[controller]")]
     public class ProductsController : Controller
     {
         private readonly Ecommerce _context;
+      
 
         public ProductsController(Ecommerce context)
         {
@@ -13,7 +15,7 @@ namespace Impacta_Ecommerce.Controllers
         }
 
         // Create 
-        [HttpPost]
+        [HttpPost("Create")]
         public async Task<IActionResult> Create(Product product)
         {
             if (ModelState.IsValid)
@@ -26,13 +28,14 @@ namespace Impacta_Ecommerce.Controllers
         }
 
         // Read 
+        [HttpGet]
         public async Task<IActionResult> Index()
         {
             return View(await _context.Products.ToListAsync());
         }
 
         // Update 
-        [HttpPost]
+        [HttpPost("Edit/{id}")]
         public async Task<IActionResult> Edit(int id, Product product)
         {
             if (id != product.ProductID)
@@ -50,7 +53,7 @@ namespace Impacta_Ecommerce.Controllers
         }
 
         // Delete 
-        [HttpPost, ActionName("Delete")]
+        [HttpPost("Delete/{id}")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var product = await _context.Products.FindAsync(id);
