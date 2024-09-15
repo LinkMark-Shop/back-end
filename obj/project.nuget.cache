@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y77wJJqP6XE=",
+  "dgSpecHash": "P+QVqCMvInI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\Impacta_Ecommerce.csproj",
+  "projectFilePath": "C:\\Users\\Tevo\\Documents\\GitHub\\back-end\\Impacta_Ecommerce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tevo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Tevo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
@@ -51,9 +51,9 @@
     "C:\\Users\\Tevo\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\Tevo\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512",
     "C:\\Users\\Tevo\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
-    "C:\\Users\\Tevo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.7\\microsoft.aspnetcore.app.runtime.win-x64.8.0.7.nupkg.sha512",
+    "C:\\Users\\Tevo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.7\\microsoft.netcore.app.runtime.win-x64.8.0.7.nupkg.sha512",
     "C:\\Users\\Tevo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.7.nupkg.sha512",
-    "C:\\Users\\Tevo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.7\\microsoft.netcore.app.runtime.win-x64.8.0.7.nupkg.sha512"
+    "C:\\Users\\Tevo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.7\\microsoft.aspnetcore.app.runtime.win-x64.8.0.7.nupkg.sha512"
   ],
   "logs": []
 }

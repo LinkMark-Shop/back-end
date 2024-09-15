@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\Impacta_Ecommerce.csproj": {}
+    "C:\\Users\\Tevo\\Documents\\GitHub\\back-end\\Impacta_Ecommerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\Impacta_Ecommerce.csproj": {
+    "C:\\Users\\Tevo\\Documents\\GitHub\\back-end\\Impacta_Ecommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\Impacta_Ecommerce.csproj",
+        "projectUniqueName": "C:\\Users\\Tevo\\Documents\\GitHub\\back-end\\Impacta_Ecommerce.csproj",
         "projectName": "Impacta_Ecommerce",
-        "projectPath": "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\Impacta_Ecommerce.csproj",
+        "projectPath": "C:\\Users\\Tevo\\Documents\\GitHub\\back-end\\Impacta_Ecommerce.csproj",
         "packagesPath": "C:\\Users\\Tevo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tevo\\Desktop\\Impacta\\Impacta_Projeto\\Impacta_Ecommerce\\obj\\",
+        "outputPath": "C:\\Users\\Tevo\\Documents\\GitHub\\back-end\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tevo\\AppData\\Roaming\\NuGet\\NuGet.Config",
